@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ridho Nugroho
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning today
-- 💞️ I’m looking to collaborate on Kominfo
+- 💞️ I’m looking to collaborate on Fight Club
 - 📫 How to reach me just say my name 3 times
 - 😄 Pronouns: Kencrot
 - ⚡ Fun fact: I like this game
