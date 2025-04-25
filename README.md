@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Fight Club
 - 📫 How to reach me just say my name 3 times
 - 😄 Pronouns: Kencrot
-- ⚡ Fun fact: I like this game
+- ⚡ Fun fact: 2 different people
 
 <!---
 eldoth/eldoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
