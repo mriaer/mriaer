@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mriaer
+- 👋 Hi, I’m Ridho Nugroho
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning today
 - 💞️ I’m looking to collaborate on Kominfo
