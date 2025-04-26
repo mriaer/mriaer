@@ -7,6 +7,6 @@
 - ⚡ Fun fact: 2 different people
 
 <!---
-eldoth/eldoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mriaer/eldoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
